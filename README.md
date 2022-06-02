@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Yashraj Dighe 🌀</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/yashraj-dighe-0b0803174/" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg"
+            alt="yashraj-dighe-0b0803174" width="22px" />
+    </a>
+    <a href="https://www.codechef.com/users/yashraj077" target="blank">
+        <img align="center"
+            src="https://camo.githubusercontent.com/b72ea44d92dd67ad610334c8293caf1852527b39d3c45926b6c5f084d49e748d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e312e302f69636f6e732f636f6465636865662e737667"
+            alt="yashraj077" width="22px" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/YashrajDighe/practice" target="blank">
+        <img align="center"
+            src="https://camo.githubusercontent.com/ce4b2b46a2623567c21a19fc58b7798c6e24afe8fd10d37728a993aefcd1c873/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6765656b73666f726765656b732e737667"
+            alt="yashraj077" width="22px" />
+    </a>
+</p>
+
 
 🏢 I’m currently working in [Unthinkable Solutions](https://www.unthinkable.co/) as **DevOps Engineer**
 
