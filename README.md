@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashraj Dighe 🌀</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/yashraj-dighe-0b0803174/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7"
-            width="22px" />
-    </a>
-</p>
-
 
 🏢 I’m currently working in [Unthinkable Solutions](https://www.unthinkable.co/) as **DevOps Engineer**
 
