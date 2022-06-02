@@ -2,12 +2,19 @@
 - 👀 I’m interested in Python and Devops
 
 
-- Tools:
-- Docker, Kubernetes (GKE)
-- Terraform
-- Jenkins CI/CD, Argocd
-- Monitoring Tools: Grafana and Prometheus
-- Sonarqube
+
+## Tech Stack
+
+**-** Docker, Kubernetes (Google Kubernetes Engine)
+
+**-** Terraform
+
+**-** Jenkins CI/CD, ArgoCD
+
+**-** Monitoring Tools - Grafana and Prometheus
+
+**-** Sonarqube
+
 
 
 <!---
